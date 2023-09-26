@@ -1,0 +1,16 @@
+﻿@model IEnumerable<CapaDatos.Entidades.Funcionario>
+
+@{
+    ViewData["Title"] = "buscar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Buscar Funcionario</h1>
+
+<form asp-controller="Home" asp-action="buscarFuncionario" method="get">
+    <div class="form-group">
+        <label for="idFuncionario">ID de Funcionario:</label>
+        <input type="text" class="form-control" id="idFuncionario" name="idFuncionario">
+    </div>
+    <button type="submit" class="btn btn-primary" >Buscar Funcionario</button>
+</form>

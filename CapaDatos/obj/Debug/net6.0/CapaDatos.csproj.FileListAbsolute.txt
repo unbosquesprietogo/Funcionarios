@@ -1,0 +1,12 @@
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\sanpr\source\repos\Funcionarios\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
